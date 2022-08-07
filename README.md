@@ -9,5 +9,5 @@ Parametry programu wyglądają następująco:<br>
 
 Jeśli zabraknie jednego lub więcej z podanych parametrów, program poprosi o wpisanie ich ponownie.<br>
 
-Program zwraca wynik interpolacji liniowej między dwoma punktami z dokładnością do 1/1000. Precyzję można<br>
-zmienić zmieniając macro **MOVE_PRECISION**.
+Program zwraca wynik interpolacji liniowej między dwoma punktami z dokładnością do 1/1000 i zapisuje go do pliku tekstowego **interp.txt**.<br> 
+Precyzję można zmienić zmieniając macro **MOVE_PRECISION**.
